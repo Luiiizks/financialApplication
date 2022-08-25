@@ -21,8 +21,7 @@ public class Stock {
     private String code;
     @Column(unique = true)
     private String cnpj;
-    // BufferedImage ou o caminho da imagem(String)
-    private String logoDirectory;
+    private String logo;
 
 
 }
