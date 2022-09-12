@@ -12,6 +12,8 @@ public class StockService {
 
     private final IFinancialRepository repository;
 
+//code dup
+    //cnpj dub
 
 
 
