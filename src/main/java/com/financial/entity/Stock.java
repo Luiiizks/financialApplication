@@ -1,9 +1,10 @@
 package com.financial.entity;
 
+import com.financial.dto.PostStockDTO;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import org.springframework.stereotype.Controller;
+import org.modelmapper.ModelMapper;
 
 import javax.persistence.*;
 
